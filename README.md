@@ -1,7 +1,7 @@
 # Aplikasi Blog - CMS Laravel
 
-**Nama:** [Muhammad Ihsan Anshorudin]  
-**NIM:** [240605110199]
+**Nama:** Muhammad Ihsan Anshorudin
+**NIM:** 240605110199
 
 ## Deskripsi
 
@@ -59,4 +59,4 @@ publik untuk pengunjung tanpa perlu login.
 
 ## Video Demonstrasi
 
-[Link YouTube kamu nanti diisi di sini]
+https://youtu.be/8anmfc2EfJ8
